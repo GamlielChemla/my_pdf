@@ -1,0 +1,16 @@
+{
+  "name": "pppdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@shipper/pdfkit-html-simple": "^1.0.3",
+    "pdfkit": "^0.9.0",
+    "phantom-html-to-pdf": "^0.5.6"
+  }
+}

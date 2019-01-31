@@ -1,0 +1,141 @@
+{
+    "overView":[
+            "Founded 5 years ago in Bnei Brak, RavTech is a one-of-a-kind software house, providing a wide range of software services and specializing in Mobile, Web sites, IoT and Automation QA. With over 70 developers, all of which are excelled Talmudic college alumni, RavTech adds a unique value to its clients. This endeavor was launched by the Ultra-Orthodox community itself and is co-managed by some of Israel's top high-tech personas. ",
+            "Our clients' portfolio includes multi-national companies such as Check Point, EMC, HP, City Bank and so on, as well as many early and late-stage startups.", 
+            "We offer our customers a long-lasting partnership along with professional peace of mind throughout the entire software development life-cycle.",
+            "Our services include, among others, the following:"
+    ],
+
+    "servicesList": [
+        "Mobile end-to-end: native Android, native iOS, client & server architecture.",
+        "Content Web sites and complex Web applications - client & server.",
+        "IoT: Sensors connectivity and probing, embedded environment integration and communication.",
+        "Dashboard & Monitoring: Javascript, Angular JS, HTML5, Python, PHP.",
+        "Automation QA: planning automation testing frameworks - client-server, load, performance and more.",
+        "ALM & DevOps: installation & upgrades, resource monitoring, Chef, Jenkins."
+    ],
+  
+    
+  
+    "imgUrlLink": [
+"data:image/jpeg;base64,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",
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1qRKm646mu76IHXqx4Ou8G0RrTEogb17lvuqyp978XARM4VY4",
+"https://www.google.com/imgres?imgurl=https%3A%2F%2Fget.pxhere.com%2Fphoto%2Fsea-coast-water-ocean-boat-lake-ship-reflection-vehicle-bay-harbor-channel-watercraft-israel-fishing-vessel-freight-transport-galilee-525939.jpg&imgrefurl=https%3A%2F%2Fpxhere.com%2Fen%2Fphoto%2F525939&docid=RfH5EBbRjuMl0M&tbnid=cYQL6mqrLVQ8kM%3A&vet=10ahUKEwiE7qyI5pXgAhXPhrQKHZ_DBwwQMwg0KA0wDQ..i&w=2896&h=1944&hl=iw&safe=images&bih=969&biw=1920&as_q=%D7%A1%D7%95%D7%A1%D7%99%D7%AA%D7%90&ved=0ahUKEwiE7qyI5pXgAhXPhrQKHZ_DBwwQMwg0KA0wDQ&iact=mrc&uact=8",
+"https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%91%D7%A5:Rabbi_Menachem_Mendel_Schneerson2_crop.jpg",
+"https://commons.wikimedia.org/wiki/File:Audi_A8_Hybrid_(4).JPG",
+"https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%91%D7%A5:SUSITA.jpg",
+"https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%91%D7%A5:Sosita_Doar.JPG",
+"https://he.wikipedia.org/wiki/%D7%A7%D7%95%D7%91%D7%A5:Flickr_-_Government_Press_Office_(GPO)_-_A_FIBER_GLASS_BODY_SABRA_SPORTS_CAR.jpg"
+],
+    "imgUrlLinks": [
+        "https://tlgur.com/d/d4xD2274",
+        "https://tlgur.com/d/P4kZjjxg",
+        "https://tlgur.com/d/Bg0pVV9g",
+        "https://tlgur.com/d/XGZbxxdG",
+        "https://tlgur.com/d/DGXKXXe8",
+        "https://tlgur.com/d/X8eqyyN8",
+        "https://tlgur.com/d/Bgv7BBz4",
+        "https://tlgur.com/d/q8BZkk98"
+    ],
+    
+    "assumptions": [
+        {
+            "name": "See list of scope functional assumptions as part of appendix A - list of tasks",
+            "key": "checkBox1",
+            "label": "Check Box 1"
+        },
+        {
+            "name": "RavTech will manage the project and allocations of developers according to each phase of development",
+            "key": "checkBox2",
+            "label": "Check Box 2"
+        },
+        {
+            "name": "The development shall be based upon the flow above (in the user stories section). Any change may influence the price below and will be charge accordingly.",
+            "key": "checkBox3",
+            "label": "Check Box 3"
+        },
+        {
+            "name": "Devices targeted for this release: Windows 10 + Chrome latest",
+            "key": "checkBox4",
+            "label": "Check Box 4"
+        },
+        {
+            "name": "Customer shall provide full UI and UX using invision, zeplin or any other web tool aimed for this purpose. While the entire UI is not required in order to start the development, it is essential that The UX will be 80% finalized when the dev starts The UI of the first 5 screens will be ready when the dev starts",
+            "key": "checkBox5",
+            "label": "Check Box 5"
+        },
+        {
+            "name": "Any change in the UX after the dev start and in any UI screen after it was delivered to RavTech may lead to additional dev costs and delay in the project delivery.",
+            "key": "checkBox6",
+            "label": "Check Box 6"
+        }
+    ],
+    
+    "Terms and Conditions": [
+        {
+            "name": "General",
+            "arr": [
+                "The proposal, including the timetable mentioned above, may be amended by mutual written consent of the parties."
+            ]
+        },
+        {
+            "name": "Intellectual Property",
+            "arr": [
+                "Immediately Following the full payment by to Ravtech All source code, the app “SMart-M Mobile”, the deliverables and any other work developed, written, made, conceived or reduced to practice in the course of or arising out of the services performed under this Agreement and all associated intellectual property relating to said source code, deliverables or work, solely remains and will be the sole property of customer.",
+                "Any costs incurred by Ravtech for third party code license required to complete the quoted systems are the responsibility of the customer and will be solely borne by the client. Third Party codes will not be assimilated in the deliverables unless a non-exclusive, royalty- free, irrevocable, perpetual, worldwide, transferable and sub licensable license will be provided to the Customer for the use of such code. Any such third party code license will be attached to the existing code license for the quoted systems."
+            ]
+        },
+        {
+            "name": "Errors and Liabilities ",
+            "arr": [
+                "RavTech will pursue due care to ensure systems create by RavTech are free of errors",
+                "RavTech will correct any errors made by RavTech staff in the undertaking of the quoted systems before the systems has been signed off as completed, such completion will take place only after the Customer will approve the delivered systems.",
+                "RavTech does not accept responsibility for losses or damage arising from errors within any systems other than Ravtech’s responsibility to correct immediately any error found in the system.",
+                "RavTech does not accept responsibility for errors, damages, losses or additional costs that relate to third party products that RavTech may require completing the quoted systems."
+            ]
+        },
+        {
+            "name": "Completion of Work / Termination",
+            "arr": [
+                "Client will cooperate with Ravtech and will respond to Ravtech enquiries at a reasonable time following Ravteck’s   enquiries",
+                "RavTech will complete all work within the estimated time frames set forth above. In case there will be a delay in client’s response to Ravtech’s enquiries, Ravetech may delay its timeframes on a day per day basis.",
+                "The final product delivered will be referenced back to the customers specifications in any case where the client feels the final product does not meet their requested requirements, the customers specifications will act as the guide to confirm that the original requests have been met.",
+                "Once the final product has been delivered, the customer acceptance phase will automatically start and continue for a period of 3 weeks. During this phase customer shall be entitled to submit to Ravtech a list of issues or bugs to be fixed. Once all defects that were raised during the product acceptance phase have been fixed to the Customer’s full satisfaction, the project in its initial scope will be deemed finished by all parties.",
+                "At any time during the services and for any cause the Customer may terminate the services upon advance 14 days written notice to Ravtech. In the event of termination by the Customer, the Customer shall pay Ravtech only for the services delivered to it by Ractech upon such termination.",
+                "Both parties undertakes to keep confidential any and all information, documents, related to the Customer, Ravrech  it’s business and/or to the systems developed under this Agreement"
+            ]
+        },
+        {
+            "name": "Hosting Environment",
+            "arr": [
+                "Hosting on RavTech server will be exclusive to development and trial phase. When developing successive versions of the systems, external hosting will have to be used in order to provide customer access to the products. Any costs incurred by Ravtech for such hosted environment required to complete the quoted systems are the responsibility of the Customer and will be solely borne by the client.",
+                "Server side systems will be fully scalable – to ease migration to production specific cloud solution."
+            ]
+        },
+        {
+            "name": "RavTech recognizes the following severity levels for Support Cases:",
+            "arr": [
+                "Severity 1 - Critical: Critical production issue affecting all users, including system unavailability, data integrity issues, or bugs having a significant impact. No workaround available.  This severity level requires maximum effort of support until an emergency fix or bypass is developed for Customer.  Critical situations may require Customer and RavTech personnel to be at their respective work locations or available on an around-the-clock basis.",
+                "Severity 2 - Urgent: Major functionality is impacted or significant performance degradation is experienced. Issue is persistent and affects many users and/or major functionality. No reasonable workaround available. Start fixing is 4 days from customer notice.",
+                "Severity 3 - High: System performance issue or bug affecting some but not all users. Start fixing is 1 week from customer notice.",
+                "Severity 4 - Medium: Inquiry regarding a routine technical issue; bug affecting a small number of users or insignificant business impact. Also includes requests such as requests for feature activation or a data export. Start fixing is 2 weeks from customer notice.",
+                "Severity 5 - Low: Inquiry regarding a routine question; information requested on application capabilities, navigation, installation or configuration. (Default level for most requests.) - Start fixing is 1 month from customer notice."
+            ]
+        },
+        {
+            "name": "Order Confirmation",
+            "arr": [
+                "Company Name",
+                "Reg. Number",
+                "Address",
+                "First Name",
+                "Surname",
+                "Phone",
+                "Signature",
+                "Stamp",
+                "Date"
+            ]
+        }
+    ]
+
+}
